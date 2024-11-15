@@ -1,0 +1,2 @@
+This repository contains the code, dataset details, and experiments for the paper titled ["HuskNet: A Deep Learning Model for Classifying Husk Species."](link) HuskNet is a ResNet50-based deep learning model designed to classify husks from eight different plant species found in Bangladesh. The model leverages the [BDHusk dataset](https://data.mendeley.com/datasets/h754ntdtfx/1), a diverse collection of husk images, to achieve state-of-the-art performance in multi-class classification tasks.
+
